@@ -1,4 +1,6 @@
 # EX-3-SubQueries-Views-and-Joins
+# Date:
+
 # Create employee Table
 
 CREATE TABLE EMP (EMPNO NUMBER(4) PRIMARY KEY,ENAME VARCHAR2(10),JOB VARCHAR2(9),MGR NUMBER(4),HIREDATE DATE,SAL NUMBER(7,2),COMM NUMBER(7,2),DEPTNO NUMBER(2));
@@ -154,3 +156,6 @@ Q10) Perform Left and right join on both tables
 # Right Join
 <br>
 <img width="599" alt="271342865-290ef10d-70af-44a8-9654-8c96ed4e0cc5" src="https://github.com/thrikesh/EX-3-SubQueries-Views-and-Joins/assets/119576222/363c85a2-7a4e-4663-a946-61c436c2760f">
+
+# Result:
+The program to create SubQueries, Views and Joins in SQL has been executed successfully.
